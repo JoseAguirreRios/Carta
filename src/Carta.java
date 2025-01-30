@@ -1,8 +1,3 @@
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
-import java.util.Random;
-
 public class Carta {
     private String palo;
     private String color;
